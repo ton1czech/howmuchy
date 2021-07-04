@@ -1,4 +1,4 @@
-# 🎂 gingy 🎂 ![License](https://img.shields.io/github/license/ton1czech/howmuchy.svg) ![Python](https://badgen.net/badge/Python/3.9.5/blue?) ![Size](https://img.shields.io/github/languages/code-size/ton1czech/howmuchy.svg) ![GitHub version](https://badge.fury.io/gh/ton1czech%2Fhowmuchy.svg)
+# 🎂 howmuchy 🎂 ![License](https://img.shields.io/github/license/ton1czech/howmuchy.svg) ![Python](https://badgen.net/badge/Python/3.9.5/blue?) ![Size](https://img.shields.io/github/languages/code-size/ton1czech/howmuchy.svg) ![GitHub version](https://badge.fury.io/gh/ton1czech%2Fhowmuchy.svg)
 
 ## 💭 **Description**
 
