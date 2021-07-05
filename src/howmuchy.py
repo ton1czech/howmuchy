@@ -25,7 +25,7 @@ def main():
                         )
     parser.add_argument('event',
                         help="""What do you want to do?
-                        [f] => count of files,
+                        [f] => count files,
                         [s] => space left
                         """
                         )
@@ -49,6 +49,8 @@ def main():
     #                        )
 
     args = parser.parse_args()
+
+    print(args.directory)
 
     if args.event == "f":
         if args.directory:
